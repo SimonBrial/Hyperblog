@@ -6,7 +6,7 @@ body{
     padding: 0;
 }
 
-/* .cabecera{
+.cabecera{
     display: flex;
     align-items: center;
     justify-content: baseline;
@@ -16,7 +16,7 @@ body{
     color: white;
     margin: 0 auto;
     padding: 0.5em;
-} */
+} 
 
 .cabecera span{
     padding: 0 1rem;
