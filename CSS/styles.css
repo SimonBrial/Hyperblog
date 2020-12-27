@@ -6,17 +6,17 @@ body{
     padding: 0;
 }
 
-.cabecera{
+/* .cabecera{
     display: flex;
     align-items: center;
     justify-content: baseline;
     width: 72.5%;
-    background: rgb(33, 216, 185);
+    background: #3333aa;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     margin: 0 auto;
     padding: 0.5em;
-}
+} */
 
 .cabecera span{
     padding: 0 1rem;
